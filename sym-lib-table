@@ -1,3 +1,5 @@
 (sym_lib_table
-  (lib (name VXO78012-500)(type Legacy)(uri ${KIPRJMOD}/symbols/VXO78012-500.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "VXO78012-500")(type "Legacy")(uri "${KIPRJMOD}/symbols/VXO78012-500.lib")(options "")(descr ""))
+  (lib (name "Q630_PSU-rescue")(type "KiCad")(uri "${KIPRJMOD}/Q630_PSU-rescue.kicad_sym")(options "")(descr ""))
 )
